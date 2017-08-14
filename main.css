@@ -1,0 +1,54 @@
+html,body{
+	margin : 0;
+}
+
+p{
+	background-color : red;	
+}
+
+#main-container{
+	width: 800px;
+	margin: 0 auto;	
+}
+
+#header-image{
+	width : 800px;
+}
+
+.nav-links{
+	display: block;
+	width: 25%;
+	height: 50px;
+	background-color: orange;
+	text-align: center;
+	line-height: 50px;
+	float: left;
+
+	/* text styling */
+	color: white;
+	font-size: 14pt;
+	font-family: arial;
+	text-decoration: none;
+}
+
+.nav-links:hover {
+	background-color: lightblue;
+}
+
+.content-image{
+	width: 200px;
+	height: 180px;
+	border: 5px ;
+	border-style: solid;
+	border-radius: 5px;
+}
+
+footer{
+	background-color: orange;
+	text-align: center;
+	height: 30px;
+	color: white;
+	font-family: arial;
+	font-size: 18pt;
+	line-height: 30px;
+}
