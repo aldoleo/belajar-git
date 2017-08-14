@@ -1,0 +1,25 @@
+img{
+  width: 200px;
+  height: 200px;
+  display: block;
+  width: 22.5%;
+  float: left;
+}
+
+/*.slides{
+  display: none;
+}*/
+
+.right{
+  display: block;
+  width: 5%;
+  height: 200px;
+  float: left;
+}
+
+#btn{
+  display: block;
+  width: 10%;
+  height: 40px;
+  
+}
